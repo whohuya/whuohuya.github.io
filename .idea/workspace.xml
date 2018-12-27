@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d0ccb89f-66a7-4fc5-8b9a-be17bdfeb530" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/favicon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/logo.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/static/logo.f6716f40.png" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/index.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/static/logo.492ba885.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -167,7 +160,7 @@
       <option name="presentableId" value="Default" />
       <updated>1545894235795</updated>
       <workItem from="1545894237001" duration="2141000" />
-      <workItem from="1545898460716" duration="556000" />
+      <workItem from="1545898460716" duration="652000" />
     </task>
     <task id="LOCAL-00001" summary="初始化">
       <created>1545894339112</created>
@@ -201,7 +194,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2697000" />
+    <option name="totallyTimeSpent" value="2793000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1284" height="1341" extended-state="0" />
